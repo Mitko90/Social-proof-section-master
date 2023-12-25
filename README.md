@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution([https://your-solution-url.com](https://candid-hummingbird-6ada8c.netlify.app/))
+- Solution URL: [Shttps://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hubolution](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub)
 - Live Site URL: [Live site](https://t.co/7JsH7RnnpB)
 
 ## My process
