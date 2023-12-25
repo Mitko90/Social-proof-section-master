@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Shttps://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hubolution](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA/hub)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/social-proof-section-MxISBg2kuh)
 - Live Site URL: [Live site](https://t.co/7JsH7RnnpB)
 
 ## My process
