@@ -18,8 +18,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution([https://your-solution-url.com](https://candid-hummingbird-6ada8c.netlify.app/))
+- Live Site URL: [Live site](https://t.co/7JsH7RnnpB)
 
 ## My process
 
